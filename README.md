@@ -1,4 +1,4 @@
-# Linguistic_Stega_LLM
+# AlignStega
 
 
 ## Setup Instructions
