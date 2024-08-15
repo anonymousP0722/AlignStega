@@ -1,0 +1,10 @@
+{
+  "model_name_or_path":"/data1/taodehao/Llama3-8B-Instruct",
+  "precision": "all",
+  "topk":0,
+  "role":"user",
+  "prompt_template":"chat",
+  "max_new_tokens":16,
+  "prompt":"Generate a sport news:"
+  }
+  
